@@ -59,6 +59,9 @@ Through this project, I practiced:
 * Working with structured datasets
 * Applying Excel formulas to practical data-analysis scenarios
 
+##Screenshots
+
+
 ## 💡 Use Case
 
 These Excel functions are commonly used in:
