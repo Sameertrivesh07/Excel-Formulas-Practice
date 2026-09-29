@@ -61,6 +61,25 @@ Through this project, I practiced:
 
 ##Screenshots
 
+<img width="1320" height="376" alt="Image" src="https://github.com/user-attachments/assets/0a45ac69-12fc-49d3-b115-f3151230a865" />
+
+<img width="1244" height="287" alt="Image" src="https://github.com/user-attachments/assets/ffb59979-0ece-4579-9f09-aa3e870ed48a" />
+
+<img width="1318" height="380" alt="Image" src="https://github.com/user-attachments/assets/ef72139c-e831-4a80-8437-123fac2458b8" />
+
+<img width="1309" height="366" alt="Image" src="https://github.com/user-attachments/assets/26862784-9563-4f76-8cdc-81e200090536" />
+
+<img width="1026" height="370" alt="Image" src="https://github.com/user-attachments/assets/eafba32b-0805-4d31-a4e0-93484ce91515" />
+
+<img width="903" height="423" alt="Image" src="https://github.com/user-attachments/assets/7060a8c0-f788-4004-9d13-378b0708522d" />
+
+<img width="1200" height="434" alt="Image" src="https://github.com/user-attachments/assets/9a4e57fa-32a0-422c-b6ae-4fa33a979967" />
+
+<img width="1221" height="426" alt="Image" src="https://github.com/user-attachments/assets/59e1587e-32e3-4da5-bc67-214f56de4349" />
+
+<img width="1274" height="433" alt="Image" src="https://github.com/user-attachments/assets/b45b11f4-c93a-4178-b4d2-9851bfc0811e" />
+
+<img width="1268" height="438" alt="Image" src="https://github.com/user-attachments/assets/0d4c62fa-5ca7-46e0-87e3-9bef8f106ab0" />
 
 ## 💡 Use Case
 
