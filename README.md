@@ -84,7 +84,7 @@ The Excel workbook contains separate worksheets demonstrating each formula:
 
 ### 10. COUNTIFS – Count Values Based on Multiple Conditions
 
-<img width="1268" height="438" alt="COUNTIFS – Count Values Based on Multiple Conditions" src="https://github.com/user-attachments/assets/0d4c62fa-5ca7-46e0-87e9-3bef8f106ab0" />
+<img width="1268" height="438" alt="Image" src="https://github.com/user-attachments/assets/0d4c62fa-5ca7-46e0-87e3-9bef8f106ab0" />
 
 
 ## 🎯 Key Learning Outcomes
